@@ -30,7 +30,7 @@ A robust computational biology workflow utilizing R to analyze Differential Gene
 
 This analysis evaluates the transcriptional landscape shifts in LSK cells upon the loss of Tet2, uncovering a distinct pre-leukemic phenotype that closely mirrors the molecular priming phase of **Juvenile Myelomonocytic Leukemia (JMML)**.
 
-### Core Core Biological Findings:
+### Core Biological Findings:
 * **Epigenetic De-repression:** A massive asymmetry in differential expression (over 5,300 upregulated genes vs. ~680 downregulated genes) serves as a classic transcriptomic footprint of Tet2-loss-mediated chromatin de-repression, priming LSK cells to escape normal lineage constraints.
 * **Stemness Collapse & Mobilization:** Marked downregulation of classic stem/quiescence factors (`Kit`, `Slamf1`, `Ly6a`, `Mecom`, `Egr1`) shows that Tet2-KO cells are abandoning homeostasis. Concurrently, the downregulation of `Cxcl12` indicates a disruption in bone marrow niche anchoring, a prerequisite for extramedullary migration in JMML.
 * **Hyper-Metabolic Exhaustion Engine:** Upregulation of translational machinery (`Eif4e`, `Rptor`) paired with the loss of cell cycle brakes (`Cdkn1c`) demonstrates a hyper-proliferative, metabolically demanding state characteristic of expanding leukemic myelomonocytic progenitors.
